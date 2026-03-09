@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.title {
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+.subtitle {
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
+.first {
+    width: 50%;
+    margin-left: 25%;
+}
+.figure {
+    width: 100%;
+    border: 5px solid white;
+    margin-top: 100px;
+}
