@@ -91,5 +91,6 @@ button:hover {
 }
 
 .form-group.error small {
-  border-color: #e74c3c;
+  visibility: visible;
+  color: #e74c3c;
 }
